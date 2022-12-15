@@ -13,10 +13,6 @@ Big Mart Sales Prediction with Machine Learning
 
 The big mart sales prediction project is about data scientists who compiled sales informatin for the  big mart outlets and ten various locationsl.The goal was to create a predictive model that can be utilized to estimate how well an item will sell at each store. I used the gradient booster regressor model to predict the item outlet sales of each outlet. I used python programming language to analyze the data within the dataset.
 
-Car Sales Prediction with Machine Learning
-
-The car sales prediction project is about used cars at a used car delearship. The dealership's goal is to increase their revenue by selling their used cars. Dealerships have to ensure their vehicles are in good shape and the quality of each vehicle matches the price of each vehicle. The naive bayes model was used to predict the car sales. I used python programming languge to examine the dataset.
-
 FedEx and Machine Learning
 
 The FedEx shipment prediction project is about Fedex wanting to increase their revenue by keeping a revolving consumer  base. FedEx does not want their consumers to be upset and leave their services if their shipments are delayed or do not show up. Python programming language was used to analyze the data for useful insights that will help them increase their profits. I used the naive bayes model. 
