@@ -21,10 +21,6 @@ FedEx and Machine Learning
 
 The FedEx shipment prediction project is about Fedex wanting to increase their revenue by keeping a revolving consumer  base. FedEx does not want their consumers to be upset and leave their services if their shipments are delayed or do not show up. Python programming language was used to analyze the data for useful insights that will help them increase their profits. I used the naive bayes model. 
 
-Nike Vs. Adidas Analysis with Clustering
-
-The Nike Vs. Adidas analysis project was about comparing the nike products, brands, and prices to adidas products, brands, and prices. Both footwear companies want to increase their saies and number of customers. Clustering was used to analyze the brands, products, sales prices, and ratings. Python programming language was used to analyze the dataset. 
-
 Pizza Restaurant Sales with Exploratory Data Analysis
 
 The pizza restaurant wanted to sale as many pizzas as they can to increase their profits. The pizza resturant needed the type of pizzas, number of pizzas, pizza sales, size of pizzas, unit price per slice of pizza, and quantity of pizzas to be analyzed. The python programming language was used to analyze the data. 
